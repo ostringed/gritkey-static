@@ -1,0 +1,6 @@
+// Login to the EC2 instance
+//cd to the directory containing the private key ec2free_simranveer_gmail.pem
+ssh -i "ec2free_simranveer_gmail.pem" ubuntu@ec2-18-216-130-130.us-east-2.compute.amazonaws.com
+
+
+//
